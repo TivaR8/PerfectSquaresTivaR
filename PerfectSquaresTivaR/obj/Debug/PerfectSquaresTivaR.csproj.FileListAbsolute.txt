@@ -1,0 +1,10 @@
+C:\Users\Tiva Rait\Desktop\School work\Programming\Grade 11\Unit 3\PerfectSquaresTivaR\PerfectSquaresTivaR\bin\Debug\PerfectSquaresTivaR.exe.config
+C:\Users\Tiva Rait\Desktop\School work\Programming\Grade 11\Unit 3\PerfectSquaresTivaR\PerfectSquaresTivaR\bin\Debug\PerfectSquaresTivaR.exe
+C:\Users\Tiva Rait\Desktop\School work\Programming\Grade 11\Unit 3\PerfectSquaresTivaR\PerfectSquaresTivaR\bin\Debug\PerfectSquaresTivaR.pdb
+C:\Users\Tiva Rait\Desktop\School work\Programming\Grade 11\Unit 3\PerfectSquaresTivaR\PerfectSquaresTivaR\obj\Debug\PerfectSquaresTivaR.csprojResolveAssemblyReference.cache
+C:\Users\Tiva Rait\Desktop\School work\Programming\Grade 11\Unit 3\PerfectSquaresTivaR\PerfectSquaresTivaR\obj\Debug\PerfectSquaresTivaR.frmPerfectSquares.resources
+C:\Users\Tiva Rait\Desktop\School work\Programming\Grade 11\Unit 3\PerfectSquaresTivaR\PerfectSquaresTivaR\obj\Debug\PerfectSquaresTivaR.Properties.Resources.resources
+C:\Users\Tiva Rait\Desktop\School work\Programming\Grade 11\Unit 3\PerfectSquaresTivaR\PerfectSquaresTivaR\obj\Debug\PerfectSquaresTivaR.csproj.GenerateResource.cache
+C:\Users\Tiva Rait\Desktop\School work\Programming\Grade 11\Unit 3\PerfectSquaresTivaR\PerfectSquaresTivaR\obj\Debug\PerfectSquaresTivaR.csproj.CoreCompileInputs.cache
+C:\Users\Tiva Rait\Desktop\School work\Programming\Grade 11\Unit 3\PerfectSquaresTivaR\PerfectSquaresTivaR\obj\Debug\PerfectSquaresTivaR.exe
+C:\Users\Tiva Rait\Desktop\School work\Programming\Grade 11\Unit 3\PerfectSquaresTivaR\PerfectSquaresTivaR\obj\Debug\PerfectSquaresTivaR.pdb
